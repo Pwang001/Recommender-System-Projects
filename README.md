@@ -1,4 +1,4 @@
 # Recommender-System-Projects
-Latent factor model (LFM)
+Latent factor model (LFM, SVD)
 
 Neural Collaborative Filtering(NCF)
